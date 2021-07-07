@@ -1,0 +1,81 @@
+#head{
+     margin-bottom: 0px;
+     padding-top: 1px;
+     margin-top: 1px;
+}
+.code_{
+     color:rgb(112, 14, 14);
+     font-size: 18px;
+     font-family:"roboto",sans-serif ;
+     max-width: 1000px;
+     z-index:relative;
+}
+.image{
+      image-orientation: from-image;
+      align-tracks:initial ;
+}
+pre{
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.cd{
+     margin-left:50px;
+}
+#col{
+    font-size:18px ;
+    font-family: sans-serif;
+}
+#temp{
+    font-size:18px;
+    font-style: "roboto";
+}
+.num{
+    color:rgb(12, 12, 240);
+}
+p{
+    margin: 1px;
+}
+#tab{
+    border: 1px solid;
+    border-collapse:separate;
+    }
+th,td{
+    padding:2px;
+    border:1px solid #201f1f;
+    height:5px;
+}
+.tablecolor{
+    background-color: rgb(189, 189, 189);
+}
+.styletable{
+       padding:5px;
+       height:1px;
+       border-width:2px;
+       color:rgb(221, 220, 220);;
+       background-color: rgb(221, 220, 220);
+    }
+.table2{
+    border:1px solid #201f1f;
+    border-collapse:collapse ;
+    border-width:2px;
+    width: 5px;
+}
+.ide{
+   border-color: white;
+}
+.tdborder{
+    border-color: white;
+}
+.fontcolor1{
+    color:black;
+    font-size: 16px;
+}
+.fontcolor{
+   color:#0000ff;
+   font-size: 16px;
+   font-style: italic;
+}
+#para{
+    text-overflow: clip;
+
+}
+
